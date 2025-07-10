@@ -69,6 +69,9 @@ python WIFI_Network_Scanner.py
    - Select a handshake file (simulated) and wordlist
    - Start simulated cracking process
    - View progress and results
+  
+**OUTPUT**
+  <img width="627" height="665" alt="Image" src="https://github.com/user-attachments/assets/9c120efa-e768-4a48-a850-18d68b77a697" />
 
 ### Important Notes
 - This tool is for educational purposes only
@@ -80,3 +83,4 @@ python WIFI_Network_Scanner.py
 Unauthorized network scanning or cracking may violate laws in your jurisdiction. Use this tool only on networks you own or have permission to test. The developers assume no liability for misuse of this software.
 
 For actual penetration testing, consider using established tools like Kali Linux with proper authorization.
+
