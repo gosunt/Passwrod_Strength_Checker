@@ -40,7 +40,6 @@ The tool provides a user-friendly interface to analyze wireless networks and und
 
       https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
       
-      ````
 3.. Run the script:
    ```bash
 
