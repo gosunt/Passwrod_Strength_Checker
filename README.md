@@ -71,6 +71,8 @@ The tool checks for:
 - For maximum security, always use unique passwords for different services
 
 This tool is designed for personal and educational use to promote better password hygiene and security awareness.
+
+
 **OUTPUT**
 
 
