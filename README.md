@@ -75,6 +75,8 @@ python WIFI_Network_Scanner.py
 
   <img width="627" height="665" alt="Image" src="https://github.com/user-attachments/assets/9c120efa-e768-4a48-a850-18d68b77a697" />
 
+
+   <img width="627" height="665" alt="Image" src="https://github.com/user-attachments/assets/3f7ec11e-3ad0-4680-bd86-f35ca12878d4" />
 ### Important Notes
 - This tool is for educational purposes only
 - Actual password cracking requires additional tools (aircrack-ng, hashcat)
